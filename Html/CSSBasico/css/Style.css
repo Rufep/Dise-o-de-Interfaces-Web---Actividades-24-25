@@ -1,0 +1,44 @@
+*{
+  font-family: sans-serif;
+}
+body{
+  padding-left: 30px;
+}
+
+.main-header{
+  border-top:10px solid #1098ad;
+  color: #1098ad;
+  padding-left:20px;
+}
+nav a{
+  color:#1098ad;
+  text-decoration: none;
+  margin-right:10px;
+}
+a{
+  color: #1098ad;
+  text-decoration: none;
+}
+h1,h2,h3{
+color: #1098ad;
+font-weight: bold;
+}
+.autorName{
+  margin-top: -2px;
+}
+.htmlDef li:first-child{
+  font-weight: bold;
+}
+aside{
+  width: 400px;
+  padding: 30px;
+  margin-top:0px 50px;
+  border-top: 5px solid #1098ad;
+  border-bottom:5px solid #1098ad ;
+}
+  aside h4{
+    text-align: center;
+  }
+  .relatedPostList li p{
+    font-weight: bold;
+  }
