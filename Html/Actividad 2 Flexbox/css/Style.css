@@ -1,0 +1,92 @@
+*{
+  font-family: sans-serif;
+}
+body{
+  padding-left: 30px;
+}
+
+.main-header{
+  border-top:10px solid #1098ad;
+  color: #1098ad;
+  padding-left:20px;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav a{
+  gap: 50vh;
+  color:#1098ad;
+  text-decoration: none;
+  margin-right:10px;
+
+}
+a{
+  color: #1098ad;
+  text-decoration: none;
+  justify-content: flex-end;
+}
+h1,h2,h3{
+color: #1098ad;
+font-weight: bold;
+}
+.autorName{
+  margin-top: -2px;
+  
+}
+.htmlDef li:first-child{
+  font-weight: bold;
+}
+aside{
+  justify-content: flex-end;
+  width: 400px;
+  padding: 30px;
+  margin-top:0px 50px;
+  border-top: 5px solid #1098ad;
+  border-bottom:5px solid #1098ad ;
+}
+  aside h4{
+    text-align: center;
+  }
+  .relatedPostList li p{
+    font-weight: bold;
+  }
+  .autorDiv{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+
+    margin-bottom: 15px;
+  }
+
+  .container2 aside{
+    width: 40%;
+  }
+  .container2 article{
+    flex-basis: 650;
+  }
+  .container2{
+    display: flex;
+    align-items: start;
+    gap: 30px;
+    justify-content: space-between;
+  }
+  .asideContent{
+    display: flex;
+    flex-direction:column ;
+    gap: 15px;
+  }
+  .relatedPostList{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  .relatedPostList li {
+    display: flex;
+    align-items: center;
+    gap: 15px; 
+  }
+  .flex-colum{
+    display: flex;
+    flex-direction: column;
+  }
