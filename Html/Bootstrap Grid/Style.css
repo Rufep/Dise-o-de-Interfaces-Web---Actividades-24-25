@@ -1,0 +1,25 @@
+/** Modificamos altura de las secciones**/
+
+.altura-seccion-a {
+  height: 30px;
+}
+
+.altura-seccion-c {
+  height: 150px;
+}
+
+.altura-seccion-b {
+  height: 75px;
+}
+
+.altura-seccion-d {
+  height: 75px;
+}
+
+.altura-seccion-e {
+  height: 150px;
+}
+
+.altura-seccion-f {
+  height: 30px;
+}
